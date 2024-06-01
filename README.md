@@ -2,6 +2,10 @@
 
 This project is a full-screen calculator built with React. It allows users to perform basic arithmetic operations and view their calculation history. The application is fully responsive and maintains the history using local storage.
 
+## Link to Calculator Solvative
+
+[Calculator Solvative](https://shashwat2412.github.io/Calculator_Solvative/)
+
 ## Features
 
 - *Basic Arithmetic Operations*: Addition, subtraction, multiplication, and division.
