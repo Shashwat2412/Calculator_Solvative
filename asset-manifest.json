@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calculator_Solvative/static/css/main.bbc52282.css",
+    "main.js": "/Calculator_Solvative/static/js/main.26f89d02.js",
+    "index.html": "/Calculator_Solvative/index.html",
+    "main.bbc52282.css.map": "/Calculator_Solvative/static/css/main.bbc52282.css.map",
+    "main.26f89d02.js.map": "/Calculator_Solvative/static/js/main.26f89d02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc52282.css",
+    "static/js/main.26f89d02.js"
+  ]
+}
